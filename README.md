@@ -1,6 +1,6 @@
 # Python-script-to-copy-files-and-folders 
 # This is for windows which i have tested on pycharm
-# Tried to create something no so purposefully, wish this can help you.
+# Tried to create something but not so purposefully, wish this can help you.
 # fill free to reconstruct it,'
 # let's come to how to use it
  
