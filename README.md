@@ -1,8 +1,9 @@
+# Resolving Windows folder path 255 character limit 
 # Python-script-to-copy-files-and-folders 
 # This is for windows which i have tested on pycharm
 # Tried to create something but not so purposefully, wish this can help you.
 # fill free to reconstruct it,'
-# let's come to how to use it
+# let's see how to use it
  
  first it will ask you for the source folder or disk path you can give it like "d:" or for folder "d:\hello" 
  please use absalute path.
