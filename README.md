@@ -1,4 +1,4 @@
-# Resolving Windows folder path 255 character limit 
+# Resolving Windows folder path 255 character limit during copy to another folder or drive
 # Python-script-to-copy-files-and-folders 
 # This is for windows which i have tested on pycharm
 # Tried to create something but not so purposefully, wish this can help you.
